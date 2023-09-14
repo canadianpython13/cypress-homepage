@@ -1,6 +1,6 @@
 
 
-# plotly project
+# sample project
 
 A test project that tests an certain elements on the Cypress.io homepage.
 
