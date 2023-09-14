@@ -2,7 +2,7 @@
 
 # plotly project
 
-A test project for Plotly that tests an certain elements on the Cypress.io homepage.
+A test project that tests an certain elements on the Cypress.io homepage.
 
 
 ## Installation
